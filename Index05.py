@@ -17,4 +17,4 @@ def main(s):
         count+=1
     if s[4].isdigit():
         count+=1
-    
+    return count
